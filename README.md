@@ -13,4 +13,4 @@ Tengo experiencia con:
 
 ---
 
-📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/Conectemos%20en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-willener/)
+📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-willener/)
