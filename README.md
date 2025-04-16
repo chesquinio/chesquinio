@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Francis
+### ![image](https://github.com/user-attachments/assets/1abba990-efa1-4adf-ac53-7056f4b7b0c2) ¡Hola! Soy Francis
 
 Soy estudiante de Ingeniería en Computación en la UNRaf y desarrollador web apasionado por crear soluciones tecnológicas que simplifican procesos y escalan el crecimiento de los negocios.
 
