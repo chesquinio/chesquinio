@@ -11,7 +11,8 @@ Tengo experiencia con:
 - PostgreSQL, MongoDB
 - Automatización de procesos
 
---
+---
 
 **Contáctame!**
-📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-willener/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-willener/)
